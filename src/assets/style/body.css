@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    height: 860px;
+    background-color: rgb(255, 215, 0);
+}
+
+.contenedor-principal{
+    
+    color: rgb(250, 250, 250);
+    
+}
+.contenedor-form{
+
+position: absolute;
+text-align: center;
+
+color: rgb(250, 250, 250);
+width: 500px;
+height: 700px;
+left: 32%;
+top: 10%;
+margin: 49px;
+border-radius: 10px;
+
+/* left: 135px;
+right: 118px;
+top: 174px; */
+/* bottom: 174px; */
+
+background: rgb(0, 0, 0);
+background-blend-mode: lighten;
+}
+
+
+
+

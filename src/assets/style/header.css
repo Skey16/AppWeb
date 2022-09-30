@@ -1,0 +1,47 @@
+
+header {
+   
+position: absolute;
+overflow-y: hidden;
+width: 100%;
+height: 126px;
+left: 0px;
+right: 0px;
+    
+background: #000000;;
+}
+
+header img {
+position: absolute;
+width: 171px;
+height: 121px;
+left: 41px;
+top: 3px;
+
+background: url(b5ed5298cea27075aea8b03bc551ad88-removebg-preview.png);
+}
+
+
+
+header h1 {
+  
+    position: absolute;
+    
+    width: 1000px;
+    height: 60px;
+    left: 550px;
+    
+    
+    MARGIN-top: 39px;
+    
+    font-family: 'Imprint MT Shadow';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #FFFFFF;
+
+    background-color: transparent;
+    }
+   
